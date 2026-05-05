@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+nltk
+scikit-learn
+joblib
+requests
