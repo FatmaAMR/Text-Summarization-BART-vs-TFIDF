@@ -31,7 +31,7 @@ summarization-analysis/
 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/FatmaAMR/Text-Summarization-BART-vs-TFIDF.git](https://github.com/FatmaAMR/Text-Summarization-BART-vs-TFIDF.git)
+git clone https://github.com/FatmaAMR/Text-Summarization-BART-vs-TFIDF.git
 cd summarization-analysis
 ```
 2. Environment Setup
@@ -45,9 +45,9 @@ pip install -r requirements.txt
 
 The `Advanced_Model` directory containing the transformer weights must be downloaded separately due to its size (approx. 1.2GB).
 
-    ```bash
-    Download Link: [model.safetensors](https://drive.google.com/file/d/1wTPqTgkIrfL9g7SYPUOQl6JDeC_g8VeJ/view?usp=sharing)
-    ```
+    
+Download Link: [Model](https://drive.google.com/file/d/1wTPqTgkIrfL9g7SYPUOQl6JDeC_g8VeJ/view?usp=sharing)
+    
 
     Placement: Move the downloaded folder into the project root directory.
 
